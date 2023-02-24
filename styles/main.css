@@ -1,0 +1,20 @@
+.committee {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.party {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.img {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.center {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
